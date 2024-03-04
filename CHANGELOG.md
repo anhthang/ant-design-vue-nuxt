@@ -2,11 +2,11 @@
 
 ## v1.4.2
 
-[compare changes](https://github.com/buianhthang/ant-design-vue-nuxt/compare/v1.4.1...v1.4.2)
+[compare changes](https://github.com/anhthang/ant-design-vue-nuxt/compare/v1.4.1...v1.4.2)
 
 ### 🩹 Fixes
 
-- Update forked ([9e95397](https://github.com/buianhthang/ant-design-vue-nuxt/commit/9e95397))
+- Update forked ([9e95397](https://github.com/anhthang/ant-design-vue-nuxt/commit/9e95397))
 
 ### ❤️ Contributors
 

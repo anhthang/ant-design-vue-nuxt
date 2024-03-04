@@ -24,7 +24,7 @@ Find and replace all on all files (CMD+SHIFT+F):
 
 <!-- Highlight some of the features your module provide here -->
 - ✨ &nbsp;Automatically import components on demand.
-- ✨ &nbsp;Automatically import icons from [@buianhthang/icons-vue](https://github.com/buianhthang/ant-design-icons/tree/master/packages/icons-vue).
+- ✨ &nbsp;Automatically import icons from [@buianhthang/icons-vue](https://github.com/anhthang/ant-design-icons/tree/master/packages/icons-vue).
 - ✨ &nbsp;Automatically import of message, notification and Modal methods.
 
 ## Quick Setup
