@@ -1,8 +1,8 @@
 {
-  "name": "@ant-design-vue/nuxt",
-  "version": "1.4.0",
-  "description": "ant-design-vue-nuxt module",
-  "repository": "vueComponent/ant-design-vue-nuxt",
+  "name": "@buianhthang/nuxt",
+  "version": "1.4.1",
+  "description": "forked ant-design-vue-nuxt module",
+  "repository": "buianhthang/ant-design-vue-nuxt",
   "license": "MIT",
   "type": "module",
   "exports": {
@@ -33,7 +33,7 @@
     "test:watch": "vitest watch"
   },
   "dependencies": {
-    "@ant-design/icons-vue": "^7.0.1",
+    "@buianhthang/icons-vue": "^7.1.0",
     "@nuxt/kit": "^3.8.1"
   },
   "peerDependencies": {

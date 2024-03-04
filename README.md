@@ -3,7 +3,7 @@ Get your module up and running quickly.
 
 Find and replace all on all files (CMD+SHIFT+F):
 - Name: Ant Design Vue Nuxt
-- Package name: @ant-design-vue/nuxt
+- Package name: @buianhthang/nuxt
 - Description: My new Nuxt module
 -->
 
@@ -17,37 +17,37 @@ Find and replace all on all files (CMD+SHIFT+F):
 [Ant Design Vue](https://www.antdv.com) module for [Nuxt](https://nuxt.com/)
 
 - [✨ &nbsp;Release Notes](/CHANGELOG.md)
-<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/@ant-design-vue/nuxt?file=playground%2Fapp.vue) -->
+<!-- - [🏀 Online playground](https://stackblitz.com/github/your-org/@buianhthang/nuxt?file=playground%2Fapp.vue) -->
 <!-- - [📖 &nbsp;Documentation](https://example.com) -->
 
 ## Features
 
 <!-- Highlight some of the features your module provide here -->
 - ✨ &nbsp;Automatically import components on demand.
-- ✨ &nbsp;Automatically import icons from [@ant-design/icons-vue](https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-vue).
+- ✨ &nbsp;Automatically import icons from [@buianhthang/icons-vue](https://github.com/buianhthang/ant-design-icons/tree/master/packages/icons-vue).
 - ✨ &nbsp;Automatically import of message, notification and Modal methods.
 
 ## Quick Setup
 
-1. Add `@ant-design-vue/nuxt` dependency to your project
+1. Add `@buianhthang/nuxt` dependency to your project
 
 ```bash
 # Using pnpm
-pnpm add -D @ant-design-vue/nuxt
+pnpm add -D @buianhthang/nuxt
 
 # Using yarn
-yarn add --dev @ant-design-vue/nuxt
+yarn add --dev @buianhthang/nuxt
 
 # Using npm
-npm install --save-dev @ant-design-vue/nuxt
+npm install --save-dev @buianhthang/nuxt
 ```
 
-2. Add `@ant-design-vue/nuxt` to the `modules` section of `nuxt.config.ts`
+2. Add `@buianhthang/nuxt` to the `modules` section of `nuxt.config.ts`
 
 ```js
 export default defineNuxtConfig({
   modules: [
-    '@ant-design-vue/nuxt'
+    '@buianhthang/nuxt'
   ],
   antd:{
     // Options
@@ -96,7 +96,7 @@ If you wish to add automatically import content from Ant Design Vue, you can add
 
 * Type: `array` | 'false'
 
-If there are components that are not imported automatically from @ant-design/icons-vue, you need to add the component name here.
+If there are components that are not imported automatically from @buianhthang/icons-vue, you need to add the component name here.
 
 
 ### extractStyle (1.4.1)
@@ -147,14 +147,14 @@ npm run release
 ```
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/@ant-design-vue/nuxt/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-version-href]: https://npmjs.com/package/@ant-design-vue/nuxt
+[npm-version-src]: https://img.shields.io/npm/v/@buianhthang/nuxt/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
+[npm-version-href]: https://npmjs.com/package/@buianhthang/nuxt
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/@ant-design-vue/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-downloads-href]: https://npmjs.com/package/@ant-design-vue/nuxt
+[npm-downloads-src]: https://img.shields.io/npm/dm/@buianhthang/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D
+[npm-downloads-href]: https://npmjs.com/package/@buianhthang/nuxt
 
-[license-src]: https://img.shields.io/npm/l/@ant-design-vue/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D
-[license-href]: https://npmjs.com/package/@ant-design-vue/nuxt
+[license-src]: https://img.shields.io/npm/l/@buianhthang/nuxt.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-href]: https://npmjs.com/package/@buianhthang/nuxt
 
 [nuxt-src]: https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js
 [nuxt-href]: https://nuxt.com

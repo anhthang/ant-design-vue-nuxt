@@ -1,9 +1,9 @@
-import * as AllIcons from "@ant-design/icons-vue";
+import * as AllIcons from "@buianhthang/icons-vue";
 import type { Options } from "./types";
 import { allComponents , allImports} from "./antdv";
 
 export const libraryName = "ant-design-vue";
-export const iconLibraryName = "@ant-design/icons-vue";
+export const iconLibraryName = "@buianhthang/icons-vue";
 export const prefix = "A"
 
 
